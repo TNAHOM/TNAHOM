@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Full stack BE Heavy developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ">
 
+## Check out my portfolio: https://nahomtamirat.vercel.app/
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TNAHOM&label=Profile%20views&color=0e75b6&style=flat" alt="Nahom-Tamirat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TNAHOM" alt="Nahom-Tamirat" /></a> </p>
