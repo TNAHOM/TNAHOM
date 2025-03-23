@@ -1,87 +1,140 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
-<h1 align="center">Hi There👋, I'm Nahom</h1>
-<h3 align="center">A passionate Full stack BE Heavy developer</h3>
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://nahomtamirat.dev/)
+
+<div align="center">
+  <h1>Hi There 👋, I'm Nahom</h1>
+  <h3>A passionate Full Stack Developer with Backend Expertise</h3>
+  
+  <p>
+    <a href="https://nahomtamirat.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-nahomtamirat.dev-blue?style=for-the-badge" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/nahom-tamirat-ab7031232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/TNAHOM/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-TNAHOM-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" /></a>
+    <img src="https://komarev.com/ghpvc/?username=TNAHOM&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+  </p>
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ">
 
-## Check out my portfolio: https://nahomtamirat.dev/
+## 👨‍💻 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TNAHOM&label=Profile%20views&color=0e75b6&style=flat" alt="Nahom-Tamirat" /> </p>
+- 🔭 I'm currently exploring Advanced **Frontend** tools and stacks
+- 💬 Ask me about **Backend Development, APIs and DSA**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nahom-tamirat-ab7031232/)
+- ⚡ Fun fact: **I love cars and I drive them HARD!!!**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TNAHOM" alt="Nahom-Tamirat" /></a> </p>
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=TNAHOM&theme=nord&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently exploring some Advanced **Frontend** tools and stacks
+## 🔧 Technologies & Tools
 
-- 💬 Ask me about **backend, APIs and DSA**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQLite" />
+      </a>
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="48" height="48" alt="NestJS" />
+      </a>
+      <br>NestJS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+  </tr>
+</table>
 
-- 📫 How to reach me **https://www.linkedin.com/in/nahom-tamirat-ab7031232/**
+## 📊 GitHub Stats
 
-- ⚡ Fun fact **I love cars and I drive them HARD!!!**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TNAHOM&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Nahom's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNAHOM&layout=compact&theme=react&hide_border=true" alt="Nahom's Top Languages" height="170" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nahom-tamirat-ab7031232/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nahom-Tamirat" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/zerabim212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zerabim212" height="30" width="40" /></a> -->
-<a href="https://codeforces.com/profile/TNAHOM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Nahom_tamirat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/TNAHOM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Nahom-Tamirat" height="30" width="40" /></a>
-<a href="https://discord.gg/TNAHOM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nahom-Tamirat" height="30" width="40" /></a>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TNAHOM&theme=react&hide_border=true" alt="Nahom's GitHub Streak" />
+</div>
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nahom-tamirat-ab7031232/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/TNAHOM" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CodeForces" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/TNAHOM" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/TNAHOM" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>  
-</p>
 
+---
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TNAHOM&show_icons=true&locale=en" alt="Nahom-Tamirat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TNAHOM&" alt="Nahom-Tamirat" /></p>
+<div align="center">
+  <b>Thanks for visiting my profile! Feel free to check out my repositories and don't forget to connect!</b>
+</div>
